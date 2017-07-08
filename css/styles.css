@@ -4973,12 +4973,20 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
-#brittany-cumens-cover{
+#brittany-cumens-cover {
   background-image: url("https://c2.staticflickr.com/6/5800/21527166245_dbf5f16187_k.jpg");
 }
 
 #brittany-cumens-card {
   background-image: url("http://i.imgur.com/GqeWRSf.png");
+}
+
+#robert-laws-cover {
+  background-image: url("http://i.imgur.com/swfhbQg.jpg");
+}
+
+#robert-laws-card {
+  background-image: url("http://i.imgur.com/V4NKk6P.jpg");
 }
 
 .view-profile-div {
